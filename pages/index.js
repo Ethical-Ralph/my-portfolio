@@ -8,7 +8,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <h1 className="title">Alinola Raphael</h1>
+        <h1 className="title">Akinola Raphael</h1>
 
         <p className="description">welcome to my portfolio</p>
       </main>
