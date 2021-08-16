@@ -10,7 +10,7 @@ export default function Home() {
       <main>
         <h1 className="title">Akinola Raphael</h1>
 
-        <p className="description">welcome to my portfolio</p>
+        
       </main>
 
       <style jsx>{`
