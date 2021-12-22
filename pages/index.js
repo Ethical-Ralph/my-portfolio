@@ -2,20 +2,28 @@ import Head from "next/head";
 
 export default function Home() {
   return (
-    <div className="container">
+    <div>
       <Head>
-        <title>Ethical Ralph</title>
+        <title>Akinola Raphael O. (EthicalRalph)</title> 
       </Head>
 
-      <main>
-        <h1 className="title">Akinola Raphael</h1>
-
-        
+      <main  className="container">
+        <h1 className="title">Akinola Raphael O.</h1>
+        <br/>
+        <a target="_blank" href="https://drive.google.com/file/d/1PI4F7cNj510-XT8nTpyJr9YGFCxCcdlr/view?usp=sharing">Download CV</a>
+        <br/>
+        <a target="_blank"  href="https://github.com/Ethical-Ralph">Github</a>
+        <br/>
+        <a target="_blank" href="https://www.linkedin.com/in/akinolaraphael/">LinkedIn</a>
+        <br/>
+        <a target="_blank" href="https://twitter.com/EthicalRalph">Twitter</a>
       </main>
+      <small>Loading...</small>
+
 
       <style jsx>{`
         .container {
-          min-height: 100vh;
+          min-height: 97vh;
           padding: 0 0.5rem;
           display: flex;
           flex-direction: column;
@@ -51,10 +59,7 @@ export default function Home() {
           align-items: center;
         }
 
-        a {
-          color: inherit;
-          text-decoration: none;
-        }
+   
 
         .title a {
           color: #0070f3;
@@ -71,6 +76,7 @@ export default function Home() {
           margin: 0;
           line-height: 1.15;
           font-size: 4rem;
+
         }
 
         .title,
