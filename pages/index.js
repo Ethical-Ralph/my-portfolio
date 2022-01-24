@@ -10,8 +10,7 @@ export default function Home() {
       <main  className="container">
         <h1 className="title">Akinola Raphael O.</h1>
         <br/>
-        <a target="_blank" href="https://drive.google.com/file/d/1PI4F7cNj510-XT8nTpyJr9YGFCxCcdlr/view?usp=sharing">Download CV</a>
-        <br/>
+       
         <a target="_blank"  href="https://github.com/Ethical-Ralph">Github</a>
         <br/>
         <a target="_blank" href="https://www.linkedin.com/in/akinolaraphael/">LinkedIn</a>
