@@ -10,7 +10,8 @@ export default function Home() {
       <main  className="container">
         <h1 className="title">Akinola Raphael O.</h1>
         <br/>
-       
+        <a target="_blank" href="https://blog.ethicalralph.me/">Blog</a>
+        <br/>
         <a target="_blank"  href="https://github.com/Ethical-Ralph">Github</a>
         <br/>
         <a target="_blank" href="https://www.linkedin.com/in/akinolaraphael/">LinkedIn</a>
@@ -18,8 +19,6 @@ export default function Home() {
         <a target="_blank" href="https://twitter.com/EthicalRalph">Twitter</a>
       </main>
       <small>Loading...</small>
-
-
       <style jsx>{`
         .container {
           min-height: 97vh;
